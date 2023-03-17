@@ -12,11 +12,11 @@ import (
 // These would actually come from enviroment variables.
 // An example of that is available here:
 const (
-	user   = "tcfbvjkz"
-	pwd    = "wW9I828Tn8S206Fkkd9q-cJJfpOcYHWD"
-	url    = "isilo.db.elephantsql.com"
+	user   = "mlvpumkb"
+	pwd    = "PVQ-VNgAweVgbAmSKHQIo2Jsi1nkJLfO"
+	url    = "mel.db.elephantsql.com"
 	port   = "5432"
-	dbName = "tcfbvjkz"
+	dbName = "mlvpumkb"
 )
 
 // SetUpDB Resets database and migrate table users schema
